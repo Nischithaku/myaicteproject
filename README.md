@@ -1,2 +1,2 @@
 # myaicteproject
-secure data hinding in images using steganography
+secure data hiding in images using steganography
